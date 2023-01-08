@@ -41,7 +41,7 @@ uint16_t TS_LEFT = 940;
 uint16_t TS_RT  = 185;
 uint16_t TS_TOP = 950;
 uint16_t TS_BOT = 170;
-char *name = "Unknown controller";
+char *name = (char *)"Unknown controller";
 
 // For better pressure precision, we need to know the resistance
 // between X+ and X- Use any multimeter to read it
