@@ -1,0 +1,21 @@
+{
+  "name": "SPFD5408_2.4_TFT",
+  "version": "1.0.0",
+  "keywords": "Arduino, tft, display",
+  "description": "OPEN-SMARTTFT TFT arduino UNO shield. Only support 2.4 TFT Dispaly 320*240, Touch Sensor, LM75 temperature sensor, SD Card. ",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/mollex/SPFD5408_2.4_TFT"
+  },
+  "authors":
+  [
+    {
+        "name": "mollex",
+        "email": "mollex85@yandex.ru",
+        "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "headers": "SPFD5408TFT.h"
+}
